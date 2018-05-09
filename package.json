@@ -1,0 +1,23 @@
+{
+  "name": "cli-repo",
+  "version": "1.0.0",
+  "description": "一个文件，给cli工具提供一个package.json，哈哈哈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silencetea/cli.git"
+  },
+  "author": "silencetea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silencetea/cli/issues"
+  },
+  "homepage": "https://github.com/silencetea/cli#readme",
+  "dependencies": {
+    "vue": "^2.3.3",
+    "vue-router": "^2.6.0"
+  }
+}
